@@ -25,7 +25,7 @@ os para ajuste do relógio do sistema
 ## 📦 Instalação
 
 Clone este repositório:
-git clone https://github.com/anajux/sincronizador-ntp.git
+git clone https://github.com/anajux/sincronizador-relogio-ntp.git
 
 cd sincronizador-ntp
 
