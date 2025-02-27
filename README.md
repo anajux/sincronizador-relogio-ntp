@@ -39,7 +39,9 @@ python sincronizador.py
 
 Para modificar o horário do sistema, é necessário executar o script como administrador:
 
+
 sudo python sincronizador.py  # Linux/Mac
+
 python sincronizador.py       # Windows (executar como administrador)
 
 ## 🖥️ Como Funciona
