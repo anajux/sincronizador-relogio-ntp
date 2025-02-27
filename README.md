@@ -27,23 +27,21 @@ os para ajuste do relógio do sistema
 Clone este repositório:
 git clone https://github.com/anajux/sincronizador-relogio-ntp.git
 
-cd sincronizador-ntp
-
 Instale as dependências:
 pip install ntplib
 
 Execute o sincronizador:
-python sincronizador.py
+python relogio-ntp.py
 
 ## ⚠️ Permissões Necessárias
 
 Para modificar o horário do sistema, é necessário executar o script como administrador:
 
 
-sudo python sincronizador.py  # Linux/Mac
+sudo python relogio-ntp.py  # Linux/Mac
 
 
-python sincronizador.py       # Windows (executar como administrador)
+python relogio-ntp.py       # Windows (executar como administrador)
 
 ## 🖥️ Como Funciona
 
